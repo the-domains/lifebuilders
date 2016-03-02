@@ -1,0 +1,28 @@
+name: LifeBuilders
+favicon: null
+layout_spectrum: 0.8826117599382997
+typography_spectrum: 0.8065651764627546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5961110116913915
+  lightness: 0.7575082974508405
+  saturation: 0.09753966657444835
+  rhythmicContrast: 0.45328777749091387
+purpose: []
